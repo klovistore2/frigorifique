@@ -1,0 +1,45 @@
+# Dependency directories
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# Build output
+.next/
+out/
+.next.static/
+.next/cache/
+.vercel/
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE & editor junk
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# TypeScript metadata
+*.tsbuildinfo
+
+# Testing coverage
+coverage/
+.nyc_output/
+
+# Mac OS
+Icon?
+ehthumbs.db
+
+
+node_modules
