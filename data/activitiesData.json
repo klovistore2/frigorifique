@@ -1,0 +1,32 @@
+{
+  "freestyle": {
+    "title": "Freestyle",
+    "description": "Unleash your inner flip-master in our Freestyle zone! Bounce across interconnected trampolines, nail aerial tricks, and defy gravity like a pro. Perfect for solo stunts or group chaos—watch your skills soar while our staff keeps the vibes safe and epic. From toddler balance boosts to fitness flips, it's pure, unscripted bounce revolution!",
+    "image": "/freestyle-neon.jpg"
+  },
+  "foam-pit": {
+    "title": "Foam Pit",
+    "description": "Launch into softness with our Foam Pit extravaganza! Fly high off trampolines, twist mid-air, and splash into a cloud of foam cubes—zero hard landings, all thrills. Padded walls for rebound fun, ideal for practicing flips or competitive kid showdowns (parents, join the fray!). Our eagle-eyed staff watches every dive, turning risks into giggles. Bonus: Toddler-safe for tiny tumblers learning coordination!",
+    "image": "/foam-pit-neon.jpg"
+  },
+  "dodgeball": {
+    "title": "Dodgeball",
+    "description": "Grab life by the bounce in Trampoline Dodgeball! Dodge, deflect, and dominate on springy courts—use balls to shield or strike, lead your squad to victory. Solo? Jump into open matches with all levels; squad up? Epic friend feuds await. Book weekly events for structured chaos—everyone's a star, no benchwarmers. Mix in freestyle flips for that extra edge!",
+    "image": "/dodgeball-neon.jpg"
+  },
+  "open-jump": {
+    "title": "Open Jump",
+    "description": "Pure, boundless bounce in Open Jump! Roam our vast trampoline grid, chain jumps, and freestyle your heart out—no rules, just endless energy zaps. All ages crush it here: Toddlers perfect their wobbles, fitness fans sweat cardio, and party crews turn it into a bash. Safe, supervised, and smile-inducing—your gateway to trampoline heaven!",
+    "image": "/open-jump-neon.jpg"
+  },
+  "parties": {
+    "title": "Parties",
+    "description": "Turn birthdays into bounce legends with our Party packages! Pick Bronze for basics, Silver for extra flips, Gold for VIP glow, or No Food for pure trampoline takeover.(book 7 days ahead for custom chaos!). Fuel the fun with pizza, tasty chicken, cookies. Epic for kids, stress-free for parents!",
+    "image": "/parties-neon.jpg"
+  },
+  "basketball-slam-dunk": {
+    "title": "Basketball Slam Dunk",
+    "description": "Rise and slam with Basketball Slam Dunk! Leap off trampolines to dunk like a pro, perfect your aerial skills, and dominate the hoop. Ideal for all ages—kids learn dunks, teens compete, and adults relive glory days. Our staff ensures safety while you soar, with padded courts adding bounce to every shot!",
+    "image": "/slam-dunk-neon.jpg"
+  }
+}

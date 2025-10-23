@@ -1,0 +1,13 @@
+{
+    "short_name": "JumpArena Trampoline Parks UK",
+    "name": "JumpArena: Unleash the Bounce Revolution! All Trampoline Parks UK",
+    "description": "Epic trampoline parks with neon vibes, deals, and endless flips!",
+    
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#d946ef", 
+    "background_color": "#000000", 
+    "orientation": "portrait",
+    "dir": "ltr",
+    "lang": "en"
+  }

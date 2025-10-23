@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /private/
+Disallow: /legal/ 
+
+Sitemap: https://jumparena.co.uk/sitemap.xml

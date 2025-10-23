@@ -1,0 +1,235 @@
+{
+  "events": [
+    {
+      "slug": "bounce-a-thon",
+      "title": "Bounce-A-Thon",
+      "image": "/placeholder-bounce-a-thon.jpg",
+      "content": "Join us for an exhilarating Bounce-A-Thon, where participants can test their endurance with non-stop jumping fun! Perfect for all ages, this event supports local charities with every leap.",
+      "date": "2019-04-14T16:03:04Z",
+      "meta": {
+        "description": "Experience the ultimate jumping challenge at JumpArena's Bounce-A-Thon event in 2019. Support charity with every bounce!",
+        "keywords": "bounce-a-thon, trampoline event, charity jump, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "easter-egg-hunt",
+      "title": "Easter Egg Hunt",
+      "image": "/placeholder-easter-egg-hunt.jpg",
+      "content": "Hop into fun with our Easter Egg Hunt! Kids can search for hidden eggs across the park, enjoy trampoline games, and win exciting prizes. A springtime adventure awaits!",
+      "date": "2019-04-19T08:11:04Z",
+      "meta": {
+        "description": "Join JumpArena's Easter Egg Hunt 2019, featuring trampoline games and prizes for kids across the UK.",
+        "keywords": "easter egg hunt, trampoline park, kids event, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "emoji-weekend",
+      "title": "Emoji Weekend",
+      "image": "/placeholder-emoji-weekend.jpg",
+      "content": "Celebrate with an Emoji Weekend full of themed jumps and activities! Dress as your favorite emoji and enjoy special trampoline challenges for a fun-filled weekend.",
+      "date": "2019-04-15T19:09:20Z",
+      "meta": {
+        "description": "Dive into JumpArena's Emoji Weekend 2019 with themed trampoline challenges and costume fun.",
+        "keywords": "emoji weekend, trampoline event, themed jump, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "fireman-sam-toddler-week",
+      "title": "Fireman Sam Toddler Week",
+      "image": "/placeholder-fireman-sam.jpg",
+      "content": "A week of toddler-friendly fun with Fireman Sam! Enjoy safe trampoline sessions, storytelling, and activities designed for our youngest jumpers.",
+      "date": "2018-02-23T05:30:58Z",
+      "meta": {
+        "description": "Fireman Sam Toddler Week at JumpArena 2018 offers safe trampoline fun for young children.",
+        "keywords": "fireman sam, toddler event, trampoline park, JumpArena 2018"
+      }
+    },
+    {
+      "slug": "fitjump-relaunch",
+      "title": "FitJump Relaunch",
+      "image": "/placeholder-fitjump.jpg",
+      "content": "Experience the relaunch of FitJump with new fitness classes on trampolines! Perfect for all fitness levels, join us for a healthy bounce revolution.",
+      "date": "2019-04-15T18:39:55Z",
+      "meta": {
+        "description": "Join the FitJump Relaunch at JumpArena 2019 with new trampoline fitness classes.",
+        "keywords": "fitjump, trampoline fitness, relaunch event, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "marvel-superheroes-2",
+      "title": "Marvel Superheroes 2",
+      "image": "/placeholder-marvel.jpg",
+      "content": "Leap into action with Marvel Superheroes 2! Enjoy themed trampoline sessions, superhero challenges, and meet-and-greet opportunities with your favorite characters.",
+      "date": "2019-04-15T20:51:41Z",
+      "meta": {
+        "description": "Marvel Superheroes 2 at JumpArena 2019 features themed trampoline fun and character meet-and-greets.",
+        "keywords": "marvel superheroes, trampoline event, superhero jump, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "toy-story-event",
+      "title": "Toy Story Event",
+      "image": "/placeholder-toy-story.jpg",
+      "content": "Step into the world of Toy Story with a special event! Enjoy trampoline games, character appearances, and family-friendly activities inspired by the beloved movie.",
+      "date": "2019-04-14T16:47:32Z",
+      "meta": {
+        "description": "Toy Story Event at JumpArena 2019 brings family fun with trampoline games and character appearances.",
+        "keywords": "toy story, trampoline event, family fun, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "valentines-day-event",
+      "title": "Valentine's Day Event",
+      "image": "/placeholder-valentines.jpg",
+      "content": "Celebrate love with a Valentine's Day Event! Enjoy couples' jump sessions, heart-themed activities, and special discounts for a romantic bounce experience.",
+      "date": "2018-02-17T05:00:06Z",
+      "meta": {
+        "description": "JumpArena's Valentine's Day Event 2018 offers couples' trampoline fun and special discounts.",
+        "keywords": "valentine's day, trampoline event, couples jump, JumpArena 2018"
+      }
+    },
+    {
+      "slug": "ninja-turtle-weekend",
+      "title": "Ninja Turtle Weekend",
+      "image": "/placeholder-ninja-turtle.jpg",
+      "content": "Dive into a Ninja Turtle Weekend with action-packed trampoline challenges! Dress as your favorite turtle and enjoy themed games for an epic adventure.",
+      "date": "2019-04-01T10:00:00Z", 
+      "meta": {
+        "description": "Join JumpArena's Ninja Turtle Weekend 2019 for themed trampoline fun and games.",
+        "keywords": "ninja turtle, trampoline event, themed weekend, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "jumpaware-hosted-by-zigzag",
+      "title": "JumpAware Hosted by ZigZag",
+      "image": "/placeholder-jumpaware.jpg",
+      "content": "Experience JumpAware, a unique event hosted by ZigZag, focusing on trampoline safety and fun! Learn skills and enjoy special activities with expert guidance.",
+      "date": "2019-04-01T12:00:00Z", 
+      "meta": {
+        "description": "JumpAware at JumpArena 2019, hosted by ZigZag, offers trampoline safety and fun activities.",
+        "keywords": "jumpaware, trampoline safety, zigzag event, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "beauty-and-beast",
+      "title": "Beauty and the Beast Event",
+      "image": "/placeholder-beauty-beast.jpg",
+      "content": "Step into a fairy tale with our Beauty and the Beast Event! Enjoy trampoline games, character meet-and-greets, and magical activities for all ages.",
+      "date": "2019-04-01T14:00:00Z", 
+      "meta": {
+        "description": "Beauty and the Beast Event at JumpArena 2019 with trampoline games and character fun.",
+        "keywords": "beauty and beast, trampoline event, family fun, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "peppa-pig-toddler-week",
+      "title": "Peppa Pig Toddler Week",
+      "image": "/placeholder-peppa-pig.jpg",
+      "content": "A week of toddler joy with Peppa Pig! Enjoy safe trampoline sessions, storytelling, and activities designed for our littlest jumpers.",
+      "date": "2018-02-25T05:30:00Z", 
+      "meta": {
+        "description": "Peppa Pig Toddler Week at JumpArena 2018 offers safe trampoline fun for young kids.",
+        "keywords": "peppa pig, toddler event, trampoline park, JumpArena 2018"
+      }
+    },
+    {
+      "slug": "marvel-heroes",
+      "title": "Marvel Heroes",
+      "image": "/placeholder-marvel-heroes.jpg",
+      "content": "Unleash your inner hero with Marvel Heroes! Enjoy themed trampoline sessions, superhero challenges, and meet your favorite characters.",
+      "date": "2019-04-01T16:00:00Z", 
+      "meta": {
+        "description": "Marvel Heroes event at JumpArena 2019 with themed trampoline fun and character meet-and-greets.",
+        "keywords": "marvel heroes, trampoline event, superhero jump, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "paw-patrol-toddler-week",
+      "title": "Paw Patrol Toddler Week",
+      "image": "/placeholder-paw-patrol.jpg",
+      "content": "A week of adventure with Paw Patrol! Toddlers can enjoy safe trampoline fun, character appearances, and engaging activities.",
+      "date": "2018-02-27T05:30:00Z", 
+      "meta": {
+        "description": "Paw Patrol Toddler Week at JumpArena 2018 offers safe trampoline fun for young children.",
+        "keywords": "paw patrol, toddler event, trampoline park, JumpArena 2018"
+      }
+    },
+    {
+      "slug": "easter-egg-hunts",
+      "title": "Easter Egg Hunts",
+      "image": "/placeholder-easter-egg-hunts.jpg",
+      "content": "Multiple Easter Egg Hunts across our parks! Kids can hunt for eggs, play trampoline games, and win prizes in this festive event.",
+      "date": "2019-04-20T08:00:00Z", 
+      "meta": {
+        "description": "Join JumpArena's Easter Egg Hunts 2019 with trampoline games and prizes for kids.",
+        "keywords": "easter egg hunts, trampoline event, kids fun, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "toddler-toy-story-event",
+      "title": "Toddler Toy Story Event",
+      "image": "/placeholder-toddler-toy-story.jpg",
+      "content": "A toddler-friendly Toy Story Event! Enjoy safe trampoline sessions, character meet-and-greets, and fun activities for the little ones.",
+      "date": "2019-04-15T10:00:00Z", 
+      "meta": {
+        "description": "Toddler Toy Story Event at JumpArena 2019 with safe trampoline fun and character appearances.",
+        "keywords": "toddler toy story, trampoline event, family fun, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "uv-party-luton",
+      "title": "UV Party Luton",
+      "image": "/placeholder-uv-party.jpg",
+      "content": "Glow under the lights at our UV Party in Luton! Enjoy neon trampoline sessions, music, and special effects for an unforgettable night.",
+      "date": "2019-04-01T18:00:00Z", 
+      "meta": {
+        "description": "UV Party Luton at JumpArena 2019 with neon trampoline fun and music.",
+        "keywords": "uv party, trampoline event, luton, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "toy-story-toddler-week",
+      "title": "Toy Story Toddler Week",
+      "image": "/placeholder-toy-story-toddler.jpg",
+      "content": "A full week of Toy Story fun for toddlers! Enjoy safe jumps, character interactions, and themed activities for the youngest jumpers.",
+      "date": "2019-04-16T10:00:00Z", 
+      "meta": {
+        "description": "Toy Story Toddler Week at JumpArena 2019 with safe trampoline fun for kids.",
+        "keywords": "toy story, toddler week, trampoline event, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "lego-weekend",
+      "title": "Lego Weekend",
+      "image": "/placeholder-lego-weekend.jpg",
+      "content": "Build and bounce at our Lego Weekend! Enjoy trampoline challenges, Lego-building contests, and family-friendly fun.",
+      "date": "2019-04-01T12:00:00Z", 
+      "meta": {
+        "description": "Lego Weekend at JumpArena 2019 with trampoline challenges and building contests.",
+        "keywords": "lego weekend, trampoline event, family fun, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "fit-jump",
+      "title": "Fit Jump",
+      "image": "/placeholder-fit-jump.jpg",
+      "content": "Get fit with Fit Jump! Join our trampoline-based fitness classes designed for all levels, promoting health and fun.",
+      "date": "2019-04-01T14:00:00Z", 
+      "meta": {
+        "description": "Fit Jump at JumpArena 2019 offers trampoline fitness classes for all levels.",
+        "keywords": "fit jump, trampoline fitness, health event, JumpArena 2019"
+      }
+    },
+    {
+      "slug": "uv-party",
+      "title": "UV Party Luton",
+      "image": "/placeholder-uv-party.jpg",
+      "content": "Glow under the lights at our UV Party in Luton! Enjoy neon trampoline sessions, music, and special effects for an unforgettable night.",
+      "date": "2019-04-01T18:00:00Z", 
+      "meta": {
+        "description": "UV Party Luton at JumpArena 2019 with neon trampoline fun and music.",
+        "keywords": "uv party, trampoline event, luton, JumpArena 2019"
+      }
+    }
+  ]
+}

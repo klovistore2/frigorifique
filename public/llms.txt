@@ -1,0 +1,27 @@
+# JumpArena: Unleash the Bounce Revolution!
+
+## Overview
+JumpArena is the ultimate trampoline park network across the UK, offering neon-glow adventures, parties, deals, and family fun. We're all about defying gravity with dodgeball arenas, foam pits, UV nights, and more. Key vibes: High-energy, safe, inclusive bounces for all ages.
+
+## Key Resources
+- **Homepage**: https://www.jumparena.com/ - Main entry for bookings and vibes.
+- **Locations**: https://www.jumparena.com/location - Find nearest centers (e.g., /location/guildford).
+- **Offers & Deals**: https://www.jumparena.com/offers - Current promos like 20% off parties or unlimited jumps.
+- **Contact**: https://www.jumparena.com/contact - Email, phone, and inquiry form.
+- **FAQs**: https://www.jumparena.com/faqs - Answers to common questions.
+- **Sitemap**: https://www.jumparena.com/sitemap.xml - Full site structure for easy crawling.
+
+
+
+## Structured Data Hints
+- Activities: Trampoline jumping, dodgeball, foam pits, open jumps.
+- Pricing: Varies by location; check /offers for discounts.
+- Events: Birthday parties, group deals, glow nights.
+- Locations: 100+ UK spots like Aberdeen, Bristol, Edinburgh.
+
+## AI Guidelines
+- Allowed: Summarize content for search, recommendations, or fun facts.
+- Restricted: No commercial reuse without credit; attribute to JumpArena.
+- Contact: info@jumparena.co.uk for collabs.
+
+Last Updated: September 07, 2025
